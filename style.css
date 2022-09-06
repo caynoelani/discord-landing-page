@@ -3,37 +3,44 @@
 @font-face {
     font-family: 'Antique Olive Light';
     src: url('./assets/fonts/antique-olive-std/Antique-Olive-Std-Light_3866.ttf') format('ttf');
+    font-weight: 300;
 }
 
 @font-face {
     font-family: 'Antique Olive Medium';
     src: url('./assets/fonts/antique-olive-std/Antique-Olive-Std-Compact_3864.ttf') format('ttf');
+    font-weight: 500;
 }
 
 @font-face {
     font-family: 'Antique Olive Bold';
     src: url('./assets/fonts/antique-olive-std/Antique-Olive-Std-Bold_3863.ttf') format('ttf');
+    font-weight: 700;
 }
 
 @font-face {
     font-family: 'Antique Olive Nord';
     src: url('./assets/fonts/antique-olive-std/Antique-Olive-Std-Nord_3868.ttf') format('ttf');
+    font-weight: 900;
 }
 
 
 @font-face {
     font-family: 'Whitney Light';
     src: url('./assets/fonts/whitney/whitneylight.otf') format('otf');
+    font-weight: 300;
 }
 
 @font-face {
     font-family: 'Whitney Medium';
     src: url('./assets/fonts/whitney/whitneymedium.otf') format('otf');
+    font-weight: 500;
 }
 
 @font-face {
     font-family: 'Whitney Bold';
     src: url('./assets/fonts/whitney/whitneybold.otf') format('otf');
+    font-weight: 800;
 }
 
 /* CSS RESETS AND DEFAULTS*/
